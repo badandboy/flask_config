@@ -6,7 +6,7 @@ chardet==3.0.4
 Click==7.0
 crcmod==1.7
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-SQLAlchemy==2.4.0
 Flask-Uploads==0.2.1
 idna==2.8
